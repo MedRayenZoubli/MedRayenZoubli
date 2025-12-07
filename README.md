@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Rayen Zoubli</h1>
-<h3 align="center">To keep it as simple and clean, i hear the music and write the sheets </h3>
+<h3 align="center">To keep it as simple and clean, I hear the music and write the sheets </h3>
 
 
 
